@@ -1,0 +1,30 @@
+footer {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    height: auto;
+    background-color: #a82d49;
+}
+
+footer .links {
+    margin-top: 80px;
+}
+
+footer .links a {
+    color: #fff;
+    margin: 0 10px;
+}
+
+footer .Media {
+    margin-top: 20px;
+}
+
+footer .Media a i {
+    margin: 0 10px;
+    font-size: 30px;
+}
+
+footer h6 {
+    color: #fff;
+    margin: 30px 0 ;
+}

@@ -1,0 +1,93 @@
+.pride {
+    background-color: White;
+}
+
+img {
+    border-radius: 10px;
+}
+
+h3 {
+    font-size: 32px!important;
+    line-height: 45px!important;
+    color: #43121d!important;
+    font-weight: 700!important;
+    margin-top: 50px!important;
+}
+
+p {
+    font-size: 16px;
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+
+button {
+    background-color: #a82d49;
+    color: white;
+    border: 3px solid #a82d49;
+}
+
+button:hover {
+    background-color: #fff;
+    color: #a82d49;
+    border: 3px solid #a82d49;
+    transition:  0.2s ease;
+}
+
+.ingredients {
+    margin-bottom: 100px;
+}
+
+.ingredients h3 {
+    font-size: 32px!important;
+    line-height: 45px!important;
+    color: #43121d!important;
+    font-weight: 700!important;
+}
+
+.ingredients p {
+    font-size: 16px;
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.ingredients ul {
+    padding-left: 17px;
+    margin-bottom: 50px;
+}
+
+.ingredients ul li {
+    font-size: 16px;
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.stomach {
+    background: url(../../images/3.jpg) no-repeat center;
+    background-size: cover;
+    height: 450px;
+    width: 100%;
+    max-width: 100%;
+}
+
+.stomach h3 {
+    color: #a82d49!important;
+    padding-top: 40px!important;
+}
+
+.stomach p {
+    color: #555!important;
+    padding-top: 20px!important;
+}
+
+.stomach a:hover {
+    text-decoration: none;
+    color: rgb(168, 45, 73);
+}

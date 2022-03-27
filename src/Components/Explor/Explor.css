@@ -1,0 +1,84 @@
+
+.explor{
+    margin-top: 50px;
+    padding: 25px 0;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+}
+
+.explor h3 {
+    color: #43121d!important;
+    margin-bottom: 15px!important;
+    font-size: 36px!important;
+    line-height: 46px!important;
+    font-weight: 700!important;
+}
+
+.explor p {
+    font-size: 16px;
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+} 
+
+.explor .box {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #f6f6f6;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+.explor img {
+    max-width:100%;
+}
+
+.explor h5 {
+    color: #43121d;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    margin: 0;
+    letter-spacing: 0.1px;
+}
+
+.explor span {
+    display: block;
+    font-size: 16px;
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.explor h6 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #a82d49;
+    margin: 20px 0;
+}
+
+.explor .OrderBtn {
+    background: #a82d49;
+    border-radius: 0%;
+}
+
+.explor .OrderBtn a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.explor .OrderBtn:hover {
+    background-color:transparent;
+}
+
+.explor .OrderBtn:hover a{
+    color: #a82d49;
+}

@@ -1,0 +1,27 @@
+
+nav {
+    background: #fff;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0%;
+}
+
+nav  a {
+    color: #ab3550 !important;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#lastNav {
+    border: 2px solid #ab3550;
+    background: #ab3550;
+    color: #fff!important;
+}
+
+#lastNav:hover {
+    background: #fff;
+    color: #ab3550!important;
+}

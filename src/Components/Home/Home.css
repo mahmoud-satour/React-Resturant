@@ -1,0 +1,81 @@
+
+header {
+    background: url(../../images/home.jpg) no-repeat center;
+    background-size: cover;
+    height: 800px;
+    margin-top: 75px;
+}
+
+h2 {
+    color: #43121d;
+    font-size: 38px!important;
+    letter-spacing: 1px;
+    font-weight: bold!important;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+    color:#555555;
+    padding: 20px 0;
+}
+
+button {
+    margin-right: 10px!important;
+    border-radius: 0%!important;
+
+}
+
+.btn1 {
+    background-color: #a82d49;
+    border: solid #a82d49 3px;
+    color: #fff;
+}
+
+.btn1:hover {
+    color: #a82d49;
+    background: #fff;
+    transition: 0.5s;
+}
+
+.btn2 {
+    background-color: #ffffff;
+    color: #000;
+    border: 3px solid #fff;
+}
+
+.btn2:hover {
+    border: 3px solid #a82d49;
+    color: #a82d49;
+    transition: 0.5s;
+}
+
+.secDiv {
+    width: 100%;
+    height: 150px;
+    background: #a82d49;
+}
+
+.num {
+    background-color: #a82d49!important;
+    width: 100%;
+    max-width: 100%;
+    padding: 15px 0;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+
+.num h1 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+.num h6 {
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 1px;
+}
